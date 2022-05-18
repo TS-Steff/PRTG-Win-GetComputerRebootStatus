@@ -7,5 +7,5 @@ copy `TS-CheckRebootState.vbs` to  `"C:\Program Files (x86)\PRTG Network Monitor
 
 # config PRTG
 Add Script/EXE sensor
-
 pass parameters: `%device %windowsuser %windowsdomain %windowspassword`
+**parameters have to be in the order as written above**

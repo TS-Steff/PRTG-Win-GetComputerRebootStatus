@@ -1,3 +1,6 @@
+# Depreciated
+Have a look at https://github.com/TS-Steff/PRTG-WinCheckRebootPending
+
 # PRTG-GetComputerRebootStatus
  Check if there is a reboot pending
  
